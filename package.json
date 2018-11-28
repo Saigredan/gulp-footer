@@ -41,7 +41,7 @@
     "url": "https://github.com/godaddy/gulp-footer/issues"
   },
   "dependencies": {
-    "event-stream": "3.4.0",
+    "event-stream": "3.3.4",
     "gulp-util": "*",
     "lodash.assign": "*"
   },
